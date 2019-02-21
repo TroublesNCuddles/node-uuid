@@ -1,0 +1,36 @@
+{
+  "name": "athenas-uuid",
+  "version": "0.1.0",
+  "description": "Generate RFC specified UUID v3, v4 and v5",
+  "main": "src/index.js",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AthenasEngineering/node-uuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "rfc",
+    "v3",
+    "v4",
+    "v5",
+    "uuidv3",
+    "uuidv4",
+    "uuidv5",
+    "uuid-v3",
+    "uuid-v4",
+    "uuid-v5"
+  ],
+  "author": "Athena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AthenasEngineering/node-uuid/issues"
+  },
+  "homepage": "https://github.com/AthenasEngineering/node-uuid#readme"
+}
